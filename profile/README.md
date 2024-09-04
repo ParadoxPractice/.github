@@ -1,5 +1,10 @@
-# Paradox Practice Network ⚔️
-👋 We are an upcoming the Minecraft Bedrock Edition: Practice Combat Server for Competitive Games.
+![minecraft_title (1)](https://github.com/user-attachments/assets/6c9e464d-381e-4961-8723-c575f2b20dc9)
+
+<p align="center">
+👋 We are an upcoming the Minecraft Bedrock Edition: Practice Combat Server for Competitive Games. <br>
+  <b>Bringing you a joy of combat.</b>
+We use ParadoxPractice to expand our experience while building something awesome.<br>
+</p>
 
 ## Roles - Join our team! 👨‍💻
 📅 **Content creator:** The content creator will be responsible for designing and implementing exciting gameplay mechanics and organizing in-game events to keep players engaged. They will play a key role in creating a dynamic and immersive gaming experience for players.
@@ -17,3 +22,5 @@
 🕵️‍♂️ **Moderator:** Responsible for maintaining a safe and positive online community by enforcing rules and resolving conflicts. Must have excellent communication and interpersonal skills, and the ability to handle difficult situations in a professional manner. The Moderator plays a critical role in maintaining a positive user experience and fostering a sense of community.
 
 🌐 **Web Developer:** Responsible for designing, coding, and maintaining websites. Must have strong knowledge of web development technologies such as HTML, CSS, JavaScript, and PHP. The ideal candidate should have the ability to create visually appealing, user-friendly, and responsive websites. The Web Developer plays a critical role in ensuring the website is functional, efficient, and attractive.
+
+Did we get you interested in working at ParadoxPractice after such a brief time? Check [here](https://jobs.paradoxpractice.club/) to see open positions and how to apply for a job!
